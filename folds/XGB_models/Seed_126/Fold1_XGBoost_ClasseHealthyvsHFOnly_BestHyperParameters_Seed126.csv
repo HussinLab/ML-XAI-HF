@@ -1,0 +1,2 @@
+"nround"	"max_depth"	"eta"	"gamma"	"colsample"	"min_child"	"sub_sample"
+1000	5	0.8	2	1	2	1
