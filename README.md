@@ -40,15 +40,15 @@ Open the R console or RStudio and install the required libraries. These packages
 # Install and load required libraries
 install.packages(c("xgboost", "tidyverse", "caret", "dplyr", "iml", "DALEX", "lime", "e1071", "ingredients"))
 
-library(xgboost)
-library(tidyverse)
-library(caret)
-library(dplyr)
-library(iml)
-library(DALEX)
-library(lime)
-library(e1071)       # For SVM functions
-library(ingredients) # For global feature importance
+library(xgboost) # Load xgboost for gradient boosting models.
+library(tidyverse) # Load tidyverse for data manipulation, visualization, and data wrangling.
+library(caret) # Load caret for training models, cross-validation, and hyperparameter tuning.
+library(dplyr) Load dplyr for streamlined data manipulation (filtering, selecting, summarizing).
+library(iml) # Load iml for interpretable machine learning tools.
+library(DALEX) # Load DALEX for model explanation and diagnostics.
+library(lime) # Load lime for local, instance-level explanations of model predictions.
+library(e1071) # Load e1071 for SVM functions and other statistical learning methods.
+library(ingredients) # Load ingredients for computing global feature importance from model explanations.
 ```
 
 ---
