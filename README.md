@@ -1,10 +1,8 @@
 # ML-XAI-HF
 
-This repository contains the code and data related to [this](https://www.biorxiv.org/content/10.1101/2024.10.04.616718v1) bioRxiv paper.
+This repository contains the code and data related to [this](https://www.sciencedirect.com/science/article/pii/S2001037025000686) paper published in Computational and Structural Biotechnology Journal.
 
-Insights into Heart Failure Metabolite Markers through Explainable Machine Learning.
-Cantin Baron, Pamela Mehanna, Caroline Daneault, Leslie Hausermann, David Busseuil, Jean-Claude Tardif, Jocelyn Dupuis, Christine Des Rosiers, Matthieu Ruiz, Julie Hussin.
-bioRxiv 2024.10.04.616718; doi: https://doi.org/10.1101/2024.10.04.616718 
+Baron C, Mehanna P, Daneault C, Hausermann L, Busseuil D, Tardif JC, Dupuis J, Des Rosiers C, Ruiz M, Hussin JG. Insights into heart failure metabolite markers through explainable machine learning. Computational and Structural Biotechnology Journal. 2025 Jan 1;27:1012-22.
 
 ---
 
